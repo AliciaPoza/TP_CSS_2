@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+}
+.article1{
+    background-color: darkgrey;
+}
+em{
+    font-size: large;
+    color: orangered;
+    text-decoration: underline;
+    font-style: normal;
+}
+.article2{
+    background-color: darkgrey;
+}
+strong{
+    color: greenyellow;
+    font-weight: normal;
+}
+.article3{
+    background-color: pink;
+}
+h2{
+    color: blue;
+    font-size: larger;
+}
+.titre2{
+    color:darkgreen;
+    text-align: right;
+}
